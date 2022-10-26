@@ -1,0 +1,1 @@
+docker run --name mysql-cass -e MYSQL_ROOT_PASSWORD=1234 -d mysql:5.7.40
